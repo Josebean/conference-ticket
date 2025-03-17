@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Inconsolata";
+    src: url("./assets/fonts/Inconsolata-VariableFont_wdth\,wght.ttf");
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+h1 {
+    font-family: "Inconsolata";
+    font-weight: 800;
+}
+
+p {
+    font-family: "Inconsolata";
+}
